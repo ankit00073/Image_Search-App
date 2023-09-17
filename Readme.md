@@ -35,4 +35,6 @@ To make this application work, you need to obtain an API key from Unsplash:
 
 4. Replace `'YOUR_API_KEY'` in `script.js` with your actual Unsplash API key.
 
+## Hosted Link :- https://ankit00073.github.io/Image_Search-App/
+
 
